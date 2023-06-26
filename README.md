@@ -3,11 +3,11 @@
 
 - 🔭 Proyectos Destacados [app Delivery](https://github.com/victor-arango/app-delivery)
 
+- 📄 Experiencia: **Desarrollo web con HTML, CSS y JavaScript. Uso de frameworks como Bootstrap para crear diseños responsivos y adaptativos. Implementación de animaciones y efectos visuales para mejorar la experiencia del usuario. Diseño y desarrollo de aplicaciones móviles utilizando Flutter.**
+
 - 💬 Contacto: **¡Estoy siempre interesado en colaborar en nuevos proyectos! Puedes encontrarme en LinkedIn https://www.linkedin.com/in/victor-alfonso-arango-quiroz-354761234 para obtener más información sobre mi trabajo o simplemente para conectar y discutir sobre desarrollo frontend o aplicaciones móviles. ¡Espero poder contribuir a proyectos emocionantes y seguir aprendiendo en el apasionante mundo del desarrollo frontend y móvil!**
 
 - 📫 Contactame: **victorarangoquiroz@gmail.com**
-
-- 📄 Experiencia: [Desarrollo web con HTML, CSS y JavaScript. Uso de frameworks como Bootstrap para crear diseños responsivos y adaptativos. Implementación de animaciones y efectos visuales para mejorar la experiencia del usuario. Diseño y desarrollo de aplicaciones móviles utilizando Flutter.](Desarrollo web con HTML, CSS y JavaScript. Uso de frameworks como Bootstrap para crear diseños responsivos y adaptativos. Implementación de animaciones y efectos visuales para mejorar la experiencia del usuario. Diseño y desarrollo de aplicaciones móviles utilizando Flutter.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
