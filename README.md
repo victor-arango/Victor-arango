@@ -3,6 +3,8 @@
 
 - Proyectos Destacados [App delivery flutter](https://github.com/victor-arango/app-delivery)
 
+- Contacto **¡Estoy siempre interesado en colaborar en nuevos proyectos! Puedes encontrarme en LinkedIn https://www.linkedin.com/in/victor-alfonso-arango-quiroz-354761234 para obtener más información sobre mi trabajo o simplemente para conectar y discutir sobre desarrollo frontend o aplicaciones móviles. ¡Espero poder contribuir a proyectos emocionantes y seguir aprendiendo en el apasionante mundo del desarrollo frontend y móvil!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vikthorarango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikthorarango" height="30" width="40" /></a>
