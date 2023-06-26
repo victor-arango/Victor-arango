@@ -1,4 +1,4 @@
-<h1 align="center">hola 👋, soy Victor Arango</h1>
+<h1 align="center">hola 👋, soy Victor Arango | DEV</h1>
 <h3 align="center">Un apasionado desarrollador frontend con experiencia en HTML, CSS y JavaScript. Me especializo en crear interfaces de usuario atractivas y funcionales utilizando tecnologías modernas.</h3>
 
 - Proyectos Destacados [App delivery flutter](https://github.com/victor-arango/app-delivery)
