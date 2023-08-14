@@ -2,6 +2,9 @@
 <h3 align="center">Un apasionado desarrollador frontend con experiencia en HTML, CSS y JavaScript. Me especializo en crear interfaces de usuario atractivas y funcionales utilizando tecnologías modernas.</h3>
 
 - 🔭 Proyectos Destacados [app Delivery](https://github.com/victor-arango/app-delivery)
+- 🔭 Proyectos Destacados [Natillera App](https://github.com/victor-arango/natillera-app)
+- 🔭 Proyectos Destacados [DefincaEnFinca](https://github.com/victor-arango/defincaenfinca)
+- 🔭 Proyectos Destacados [Tienda Virtual](https://github.com/victor-arango/tienda_virtual)
 
 - 📄 Experiencia: **Desarrollo web con HTML, CSS y JavaScript. Uso de frameworks como Bootstrap para crear diseños responsivos y adaptativos. Implementación de animaciones y efectos visuales para mejorar la experiencia del usuario. Diseño y desarrollo de aplicaciones móviles utilizando Flutter.**
 
