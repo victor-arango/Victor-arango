@@ -1,22 +1,79 @@
-<h1 align="center">hola 👋, soy Victor Arango | DEV</h1>
-<h3 align="center">Un apasionado desarrollador frontend con experiencia en HTML, CSS y JavaScript. Me especializo en crear interfaces de usuario atractivas y funcionales utilizando tecnologías modernas.</h3>
+<h1 align="center">👋 Hola, soy Víctor Arango</h1>
+<h3 align="center">Frontend & Mobile Developer | UI/UX Enthusiast</h3>
 
-- 🔭 Proyectos Destacados [app Delivery](https://github.com/victor-arango/app-delivery)
-- 🔭 Proyectos Destacados [Natillera App](https://github.com/victor-arango/natillera-app)
-- 🔭 Proyectos Destacados [DefincaEnFinca](https://github.com/victor-arango/defincaenfinca)
-- 🔭 Proyectos Destacados [Tienda Virtual](https://github.com/victor-arango/tienda_virtual)
-
-- 📄 Experiencia: **Desarrollo web con HTML, CSS y JavaScript. Uso de frameworks como Bootstrap para crear diseños responsivos y adaptativos. Implementación de animaciones y efectos visuales para mejorar la experiencia del usuario. Diseño y desarrollo de aplicaciones móviles utilizando Flutter.**
-
-- 💬 Contacto: **¡Estoy siempre interesado en colaborar en nuevos proyectos! Puedes encontrarme en LinkedIn https://www.linkedin.com/in/victorarangoDev para obtener más información sobre mi trabajo o simplemente para conectar y discutir sobre desarrollo frontend o aplicaciones móviles. ¡Espero poder contribuir a proyectos emocionantes y seguir aprendiendo en el apasionante mundo del desarrollo frontend y móvil!**
-
-- 📫 Contactame: **victorarangoquiroz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victor alfonso arango quiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor alfonso arango quiroz" height="30" width="40" /></a>
-<a href="https://instagram.com/vikthorarango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikthorarango" height="30" width="40" /></a>
+<p align="center">
+Desarrollador frontend y móvil apasionado por crear experiencias digitales modernas, intuitivas y escalables. 
+Cuento con experiencia en aplicaciones web y móviles, combinando diseño, rendimiento y buenas prácticas de desarrollo.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Proyectos Destacados
+- 📦 **App Delivery** – Plataforma de pedidos y gestión de entregas  
+  🔗 https://github.com/victor-arango/app-delivery
+
+- 💰 **Natillera App** – Aplicación para gestión de ahorro colectivo  
+  🔗 https://github.com/victor-arango/natillera-app
+
+- 🌱 **DefincaEnFinca** – Solución digital para el sector agro  
+  🔗 https://github.com/victor-arango/defincaenfinca
+
+- 🛒 **Tienda Virtual** – E-commerce con enfoque en UX y rendimiento  
+  🔗 https://github.com/victor-arango/tienda_virtual
+
+---
+
+### 💼 Experiencia Profesional
+- Desarrollo de aplicaciones web modernas usando **HTML, CSS y JavaScript**
+- Creación de interfaces responsivas y accesibles con **Bootstrap y Tailwind CSS**
+- Implementación de animaciones y micro-interacciones para mejorar la experiencia de usuario
+- Desarrollo de aplicaciones móviles multiplataforma con **Flutter**
+- Integración de APIs y manejo de datos con **Firebase y bases de datos SQL / NoSQL**
+- Enfoque en **código limpio, escalable y mantenible**
+
+---
+
+### 🤝 Colaboración y Networking
+💬 Siempre abierto a colaborar en proyectos innovadores y desafiantes.  
+Me interesa trabajar en soluciones que generen impacto real y aporten valor al usuario final.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/victorarangoDev  
+📧 **Email:** victorarangoquiroz@gmail.com
+
+---
+
+<h3 align="left">🌐 Conecta conmigo</h3>
+<p align="left">
+<a href="https://linkedin.com/in/victorarangoDev" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/vikthorarango" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Tecnologías y Herramientas</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Construyendo experiencias digitales que combinan diseño, tecnología y propósito.</i>
+</p>
